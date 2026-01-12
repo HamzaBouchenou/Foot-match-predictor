@@ -142,8 +142,8 @@ Try the live app: **[Football Predictor App](https://foot-match-predictor.stream
 
 ### Screenshots
 
-<img src="screenshots/home.png" width="800"/>
-<br>
+<img src="screenshots/overview.png" width="800"/>
+
  
 <img src="screenshots/prediction.png" width="800"/>
 
